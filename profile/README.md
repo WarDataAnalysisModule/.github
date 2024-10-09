@@ -28,7 +28,7 @@ OpenAI의 ChatGPT API를 이용하여 **생성형 AI를 통해 수치 중심의 
 - 백엔드(<https://github.com/WarDataAnalysisModule/WDAM-backEnd>)
 - 프론트엔드(<https://github.com/WarDataAnalysisModule/WDAM-frontEnd>)
 - 주요 모듈(<https://github.com/WarDataAnalysisModule/WDAM-module>)
-- 
+  
 크게 위 3개의 리포지토리로 나누어 작업하였습니다.
 
 오픈소스 프로젝트에 기여하기 위해 코드를 공개하며 프로젝트를 진행했습니다. 
