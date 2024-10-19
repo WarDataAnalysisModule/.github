@@ -17,6 +17,8 @@ OpenAI의 ChatGPT API를 이용하여 **생성형 AI를 통해 수치 중심의 
 
 데이터 분석 과정은 크게 1. 전처리와 2. 분석 과정으로 나뉘어지며, 모두 동일한 언어 모델을 이용하여 구현했습니다.
 
+![아키텍처](https://github.com/user-attachments/assets/39d7040a-c084-45c9-a39c-313b8c6a647b)
+
 
 ## 🖥️ 개발환경
 - 백엔드: Spring Boot, JAVA
